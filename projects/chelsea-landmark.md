@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: monsun.theater Hamburg
 category: Identity
-thumbnail: "/uploads/monsun-branding.jpg"
+thumbnail: "/uploads/a4d23d02-48de-4e91-b615-a2d4551cf182.jpeg"
 categories:
 - website
 - branding
