@@ -1,16 +1,16 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: monsun.theater Hamburg
 category: Identity
-thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
+thumbnail: "/uploads/monsun-branding.jpg"
 categories:
-- photography
-- pink
+- website
+- branding
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
+**monsun.theater** - one of Hamburg’s oldest off-theatre scenes is undergoing a ground renovation. While the venue stays closed to the public, the theatre company is making bold projects online. A new streaming platform - **monsun.digital...**
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+ 
