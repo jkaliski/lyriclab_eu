@@ -11,7 +11,9 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-**monsun.theater** - Hamburg’s oldest off-theatre scene is undergoing a ground renovation. While the venue stays closed to the public, the theatre company is taking their performances online. 
+![](/uploads/monsunlogowordmarkwhitetext.png)
+
+**monsun.theater** - Hamburg’s oldest off-theatre scene is undergoing a ground renovation. While the venue stays closed to the public, the theatre company is taking their performances online.
 
 **Challenge**
 
