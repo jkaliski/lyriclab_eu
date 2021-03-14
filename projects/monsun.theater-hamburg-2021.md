@@ -24,4 +24,4 @@ In the discovery phase, we spotted three main issues that demanded our attention
 
 To solve this challenge, we **studied the users’ journey** through the website to better understand their needs. We found that we needed to drastically change the information architecture and content of the website while introducing an overhauled user experience and interface design that is dead simple and easy to follow.
 
-**A new design and development of a custom website in Statamic CMS made an impressive increase in website views and ticket bookings.**
+**A new design and development of a custom website in Statamic CMS made an impressive increase in website views and ticket bookings.** 
