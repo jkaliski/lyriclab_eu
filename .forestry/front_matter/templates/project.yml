@@ -36,5 +36,6 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/birkagardens-folk-high-school-stockholm.md
 - projects/chelsea-landmark.md
 - projects/sunk.md
