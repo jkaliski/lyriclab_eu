@@ -11,6 +11,14 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-**monsun.theater** - one of Hamburg’s oldest off-theatre scenes is undergoing a ground renovation. While the venue stays closed to the public, the theatre company is making bold projects online. A new streaming platform - **monsun.digital...**
+**monsun.theater** - Hamburg’s oldest off-theatre scene is undergoing a ground renovation. While the venue stays closed to the public, the theatre company is taking their performances online. 
 
- 
+**Challenge**
+
+In the discovery phase, we spotted three main issues that demanded our attention. At hand was the implementation of the new branding and a well overdue refresh of the overall design. But the main problem we desperately had to solve was the **high bounce rate and low user engagement** on the website.
+
+**Solution**
+
+To solve this challenge, we **studied the users’ journey** through the website to better understand their needs. We found that we needed to drastically change the information architecture and content of the website while introducing an overhauled user experience and interface design that is dead simple and easy to follow.
+
+**A new design and development of a custom websites in Statamic CMS established businesses.**
