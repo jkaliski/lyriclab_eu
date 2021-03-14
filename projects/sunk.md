@@ -9,6 +9,9 @@ project_bg_color: "#EDEDED"
 project_fg_color: "#36B5EF"
 
 ---
-## ![](/uploads/gp-legal-logo.png)
+## ![](/uploads/gp-legal-wordmark.svg)GP Legal is a modern law-firm based in Warsaw, Poland.
 
-GP Legal is a modern law-firm based in Warsaw, Poland.
+### Project scope
+
+* custom branding
+* website development.
