@@ -1,12 +1,15 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Pineapple
-date: 2019-02-06
+thumbnail: "/uploads/gp-legal-logo.png"
+title: GP LEGAL
+date: 2021-03-15
 categories:
-- photography
-- blue
+- branding
+- website
 project_bg_color: "#EDEDED"
 project_fg_color: "#36B5EF"
 
 ---
-![](/uploads/cody-davis-253925-unsplash.jpg)
+
+## ![](/uploads/gp-legal-logo.png)
+
+A modern law-firm based in Warsaw Polend
