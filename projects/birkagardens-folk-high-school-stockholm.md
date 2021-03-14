@@ -1,7 +1,7 @@
 ---
 date: 2021-03-14
 thumbnail: "/uploads/birkalogo.png"
-title: Birkagårdens Folk High School Stockholm
+title: Birkagårdens Folk High School in Stockholm
 categories:
 - logo
 - website
