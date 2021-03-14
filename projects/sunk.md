@@ -12,4 +12,4 @@ project_fg_color: "#36B5EF"
 
 ## ![](/uploads/gp-legal-logo.png)
 
-A modern law-firm based in Warsaw Polend
+A modern law-firm based in Warsaw Poland.
